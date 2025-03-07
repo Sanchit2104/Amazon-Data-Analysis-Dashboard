@@ -1,7 +1,7 @@
 # Amazon Data Analysis Dashboard
 
 ## 📌 Project Overview
-The *Amazon Data Analysis Dashboard* is a comprehensive project aimed at analyzing Amazon product data to gain insights into product performance, customer sentiment, and sales trends. The project uses *Python, **SQL, and **Tableau* to clean, analyze, and visualize data.
+The *Amazon Data Analysis Dashboard* is a comprehensive project aimed at analyzing Amazon product data to gain insights into product performance, customer sentiment, and sales trends. The project uses *Python, and  **Power BI* to clean, analyze, and visualize data.
 
 ---
 
