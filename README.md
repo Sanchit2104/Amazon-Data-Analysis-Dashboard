@@ -39,7 +39,7 @@ The *Amazon Data Analysis Dashboard* is a comprehensive project aimed at analyzi
 - Cleaned review text.
 
 
-### 5. Data Visualization in Power BI
+### 3. Data Visualization in Power BI
 - Built interactive charts and graphs to visualize:
   - Top products by sales
   - Sales for each market
@@ -48,23 +48,22 @@ The *Amazon Data Analysis Dashboard* is a comprehensive project aimed at analyzi
 
 ---
 
-## 📊 Tableau Dashboard Layout
-| Sheet Name       | Purpose                  |
-|----------------|--------------------------|
-| Top products by sales | Total products, revenue, and reviews |
-| Top Categories | Best-selling product categories |
-| Sentiment      | Customer sentiment analysis |
-| Ratings Dist.  | Rating frequency bar chart |
-| Price vs Ratings | Correlation scatter plot |
-| Monthly Reviews | Review trend line chart |
+## 📊 Power BI Dashboard Layout
+| Sheet Name       
+|----------------
+| Year wise Sales 
+| Sales for each segment  
+| Sales for each market
+| Most Profitable Products  
+| Least Profitable Products
 
 ---
 
 ## 🚀 Final Insights
-- Products priced between *$20-$50* have the highest sales.
-- Positive sentiment accounts for *70% of reviews*.
-- Electronics and Fashion are the *top-performing categories*.
-- Higher-rated products tend to have better sales.
+- 2015 had the largest sales among 2012,2013,2014,2015
+- Consumer segment had the largest sales each year.
+- Canon camera and cisco and motorola smartphones were the *most profitable products*.
+- Asia Pacific is the largest market for Amazon.
 
 ---
 
